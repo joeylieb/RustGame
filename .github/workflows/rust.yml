@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: RustGame-Linux
-          path: target/release/fun_game
+          path: target/release/FunGame
